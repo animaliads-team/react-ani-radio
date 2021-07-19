@@ -3,13 +3,12 @@
 }
 
 ani-radio {
-  /* display: grid;
-  align-items: center;
-  justify-content: center; */
+  position: relative;
 }
 
 span {
-  display: grid;
-  align-items: center;
-  justify-content: center;
+  position: absolute;
+  top: 50%;
+  margin-left: 8px;
+  transform: translateY(-50%);
 }
