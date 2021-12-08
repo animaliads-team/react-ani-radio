@@ -7,7 +7,7 @@ import './style.css';
 export default function App() {
   return (
     <ani-radio>
-      <span class="label">Google</span>
+      <span className="label">Google</span>
     </ani-radio>
   );
 }
